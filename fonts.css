@@ -1,0 +1,194 @@
+@font-face {
+  font-family: 'bbvs';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/static/fonts/bbvs_700_normal.otf') format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'bbvs';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/static/fonts/bbvs_700_normal.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'cxxc';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/static/fonts/cxxc_400_italic.otf') format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Adrianna Extended';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/static/fonts/cxxc_400_italic.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'cxxc';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/static/fonts/cxxc_400_normal.otf') format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Adrianna Extended';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/static/fonts/cxxc_400_normal.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'cxxc';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/static/fonts/cxxc_600_normal.otf') format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Adrianna Extended';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/static/fonts/cxxc_600_normal.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'cxxc';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/static/fonts/cxxc_700_normal.otf') format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Adrianna Extended';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/static/fonts/cxxc_700_normal.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ftnk';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/static/fonts/ftnk_400_normal.otf') format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'ftnk';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/static/fonts/ftnk_400_normal.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ftnk';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/static/fonts/ftnk_700_normal.otf') format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'ftnk';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/static/fonts/ftnk_700_normal.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'vcxq';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/static/fonts/vcxq_400_italic.otf') format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Acumin Pro Wide';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/static/fonts/vcxq_400_italic.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'vcxq';
+  font-style: normal;
+  font-weight: 300;
+  src: url('/static/fonts/vcxq_300_normal.otf') format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Acumin Pro Wide';
+  font-style: normal;
+  font-weight: 300;
+  src: url('/static/fonts/vcxq_300_normal.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'vcxq';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/static/fonts/vcxq_400_normal.otf') format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Acumin Pro Wide';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/static/fonts/vcxq_400_normal.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'vcxq';
+  font-style: normal;
+  font-weight: 500;
+  src: url('/static/fonts/vcxq_500_normal.otf') format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Acumin Pro Wide';
+  font-style: normal;
+  font-weight: 500;
+  src: url('/static/fonts/vcxq_500_normal.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'vcxq';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/static/fonts/vcxq_600_normal.otf') format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Acumin Pro Wide';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/static/fonts/vcxq_600_normal.otf') format('opentype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'vcxq';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/static/fonts/vcxq_700_normal.otf') format('opentype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Acumin Pro Wide';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/static/fonts/vcxq_700_normal.otf') format('opentype');
+  font-display: swap;
+}

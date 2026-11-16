@@ -1,0 +1,112 @@
+[
+  {
+    "id": "agentguard-ai",
+    "num": "01",
+    "year": "2026",
+    "title": "AGENTGUARD AI",
+    "category": "Autonomous AI Security & Guardrails",
+    "short_desc": "Real-time security proxy gateway that detects and blocks tool-use abuse, privilege escalation, and prompt injection attacks in autonomous AI workflows.",
+    "long_desc": "AgentGuard AI is an enterprise-grade security gateway designed to protect autonomous LLM agents and multi-agent workflows from prompt injection, malicious tool calling, unauthorized data exfiltration, and privilege escalation. Featuring real-time token stream inspection, embedding-based semantic anomaly detection, and granular zero-trust policy enforcement across distributed multi-agent systems.",
+    "tech_stack": "Python, FastAPI, PyTorch, React, Vector Embeddings, Chart.js",
+    "tech_list": ["Python", "FastAPI", "LLM Guardrails", "Zero-Trust", "React", "Vector Embeddings"],
+    "metrics": "99.8% Threat Interception Rate",
+    "local_img": "/static/images/projects/agentguard.png",
+    "github_url": "https://github.com/nithinragunath",
+    "demo_url": "/agentguard-ai",
+    "has_live_demo": true,
+    "highlights": [
+      "Real-time bidirectional proxy intercepting agent input and execution calls",
+      "Dynamic prompt injection classification and malicious payload quarantine",
+      "Role-based privilege escalation prevention across autonomous agent tools",
+      "Interactive monitoring telemetry dashboard with security event timelines"
+    ]
+  },
+  {
+    "id": "student-mental-health",
+    "num": "02",
+    "year": "2026",
+    "title": "Student Mental Health & Depression System",
+    "category": "Clinical AI & Predictive Analytics",
+    "short_desc": "Machine learning diagnostic engine combining psychometric assessment (PHQ-9 / GAD-7) with NLP feature extraction to predict depression risks and deliver intervention pathways.",
+    "long_desc": "A research-driven predictive decision-support system built to assist student welfare counseling and early mental health intervention. Combines standardized clinical psychometric instruments (PHQ-9 and GAD-7) with natural language sentiment feature extraction to categorize risk levels and provide tailored wellness guidance.",
+    "tech_stack": "Python, Scikit-learn, Random Forest, Flask, SQLite, Pandas",
+    "tech_list": ["Python", "Scikit-learn", "Random Forest", "SVM", "Flask", "SQLite"],
+    "metrics": "92.6% Cross-Validated F1-Score",
+    "local_img": "/static/images/projects/mental_health.png",
+    "github_url": "https://github.com/nithinragunath",
+    "demo_url": null,
+    "has_live_demo": false,
+    "highlights": [
+      "Validated psychometric scoring integrated with unstructured text reflections",
+      "Random Forest & SVM ensemble classifiers with multi-class risk categorization",
+      "Complete data privacy and client-side encryption of sensitive health records",
+      "Automated clinical reporting with contextual emergency referral triggers"
+    ]
+  },
+  {
+    "id": "ai-finance-controller",
+    "num": "03",
+    "year": "2026",
+    "title": "AI Finance Controller",
+    "category": "Autonomous Financial Intelligence",
+    "short_desc": "Autonomous financial intelligence platform utilizing time-series forecasting, expense anomaly detection, and automated cash-flow optimization.",
+    "long_desc": "An algorithmic financial controller that models consumer and enterprise cash-flow patterns, forecasts future capital trajectories using autoregressive time-series models, and isolates abnormal spending spikes using Isolation Forest anomaly detection algorithms.",
+    "tech_stack": "Python, NumPy, Scikit-learn, Flask, Chart.js, SQLite",
+    "tech_list": ["Python", "NumPy", "Scikit-learn", "Time-Series", "Flask", "Chart.js"],
+    "metrics": "+28.4% Projected Savings Rate",
+    "local_img": "/static/images/projects/ai_finance.png",
+    "github_url": "https://github.com/nithinragunath",
+    "demo_url": null,
+    "has_live_demo": false,
+    "highlights": [
+      "Autoregressive time-series cash-flow modeling and forecast curves",
+      "Isolation Forest unsupervised anomaly detection on transaction streams",
+      "Recurring expense fingerprinting and subscription drift alerts",
+      "Interactive data visualizations and exportable budget breakdowns"
+    ]
+  },
+  {
+    "id": "personal-portfolio",
+    "num": "04",
+    "year": "2026",
+    "title": "Full-Stack Personal Portfolio",
+    "category": "Creative Engineering & Architecture",
+    "short_desc": "Minimalist Swiss-inspired creative engineering portfolio with interactive Three.js 3D architectural centerpiece, fluid motion, and Python Flask backend.",
+    "long_desc": "Engineered with a minimalist Swiss design philosophy inspired by Denny Pratama's portfolio. Blends high-contrast editorial typography, an interactive WebGL Three.js geometric computing centerpiece, cursor-tracked project previews, and an enterprise-grade Python Flask / SQLite backend with Google Sheets & email notification pipelines.",
+    "tech_stack": "Python, Flask, Three.js, GSAP, SQLite, CSS Grid, WebGL",
+    "tech_list": ["Python", "Flask", "Three.js", "GSAP", "SQLite", "Jinja2"],
+    "metrics": "100 / 100 Lighthouse Performance",
+    "local_img": "/static/images/projects/portfolio_showcase.png",
+    "github_url": "https://github.com/nithinragunath",
+    "demo_url": "/home",
+    "has_live_demo": true,
+    "highlights": [
+      "Interactive 3D architectural centerpiece responding to cursor movement & scroll",
+      "Swiss editorial typography hierarchy with bespoke serif & sans pairings",
+      "Cursor-following floating image hover cards on tabular project showcase",
+      "Secure SQLite contact backend with email alerts and Sheets sync pipeline"
+    ]
+  },
+  {
+    "id": "ml-prediction-suite",
+    "num": "05",
+    "year": "2025",
+    "title": "Machine Learning Research & Prediction Suite",
+    "category": "Applied Machine Learning & NLP",
+    "short_desc": "Comprehensive suite of predictive models including multi-symptom disease prediction (94% accuracy) and social sentiment NLP classification using BERT.",
+    "long_desc": "An applied machine learning research laboratory featuring two production-tested systems: (1) An empirical symptom-based disease prediction model built with Random Forest and SVM ensembles achieving 94% validation accuracy, and (2) A transformer NLP pipeline leveraging fine-tuned BERT and VADER for real-time sentiment distribution analysis.",
+    "tech_stack": "Python, Scikit-learn, Transformers, BERT, NLTK, Pandas",
+    "tech_list": ["Python", "Scikit-learn", "BERT", "Transformers", "NLP", "Pandas"],
+    "metrics": "94.2% Validation Accuracy",
+    "local_img": "/static/images/projects/ml_suite.png",
+    "github_url": "https://github.com/nithinragunath",
+    "demo_url": null,
+    "has_live_demo": false,
+    "highlights": [
+      "High-accuracy disease classifier evaluating complex symptom constellations",
+      "Transformer sequence classification with sub-20ms inference latency",
+      "Comparative feature importance analysis across multiple model families",
+      "Modular Python pipeline with reproducible dataset pipelines and training scripts"
+    ]
+  }
+]
